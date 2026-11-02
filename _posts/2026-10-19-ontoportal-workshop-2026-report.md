@@ -1,27 +1,33 @@
 ---
-title: OntoPortal Workshop 2026 Report and Presentations
+title: OntoPortal Workshop 2026 Report
 categories:
  - Happenings
  - News
-author_staff_member: Clement Jonquet
+author_staff_member: nicolas-geysse
 date: 2026-10-19
 ---
 
 The OntoPortal community gathered at the Observatoire de Paris, France, from September 21 to 25, 2026, for the **5th OntoPortal Workshop**, bringing members together both on site and online.
 
-The Alliance now brings together **10 public portals**, welcoming this year a newcomer in astronomy: [OntoPortal-Astro](https://ontoportal-astro.eu/){:target="_blank"}. The workshop highlighted the complementary roles of the broader Alliance—as an open community of practice—and the more committed OntoPortal Federation.
+The Alliance now brings together **10 public portals and 3 upcoming ones**, with [CHPortal](https://chportal.culturalheritagecloud.eu/){:target="_blank"}, the repository of cultural heritage ontologies, newly released this year. The workshop highlighted the complementary roles of the broader Alliance—as an open community of practice—and the more committed **OntoPortal Federation**.
 
-A key highlight was the **public online session**, gathering 77 attendees from across international communities, featuring six presentations by representative users.
+A key highlight was the **public online session** (September 23), gathering 77 attendees from across international communities, featuring six presentations by representative users:
+
+- **Adriana Mariotti** (CMCC-ICOS) – EcoPortal as a service to manage semantic artefacts for European research infrastructures
+- **Roberto García** (Universitat de Lleida) – AgroPortal as a vocabulary hub in the Common European Agricultural Data Space
+- **Steven Piel** (Ifremer) – Using O'FAIRe to improve the FAIRness of the OSO ontology
+- **Sylvain Grellet** (BRGM) – Use of EarthPortal by Data Terra's MTEP
+- **Stuart Chalk** (University of North Florida) – I-ADOPT
+- **John Graybeal** (UC San Diego) – Applying CEDAR and BioPortal to the NIAID Metadata Blueprint
 
 During the workshop, discussions and sessions covered:
 
 - **AI and MCP services**: Integrating Model Context Protocol (MCP) and AI-assisted workflows into the OntoPortal ecosystem.
 - **Ontolex-Lemon terminologies**: An extended enhancement of the OntoPortal technology to support rich lexical and linguistic resources.
-- **Ecosystem integrations**: Connecting OntoPortal with downstream tools and consuming services, including MTEP, the ITINERIS Terminology Service, and KG-BioPortal.
-- **Governance & metadata**: Advancing federation guidelines, metadata curation, and formal organizational structures.
+- **Ecosystem integrations**: Connecting OntoPortal with downstream tools and consuming services, including the ITINERIS Terminology Service (developed by UPM in the TeresIA project), KG-BioPortal, PontusX/AgrospAI, and OpenTheso.
+- **Governance & metadata**: Advancing OntoPortal Federation guidelines, metadata curation, and formal organizational structures.
 - **Engineering & shared code**: Improving deployment recipes, shared documentation, and collaborative development workflows.
 
-### Workshop Presentations & Upcoming Report
+### Upcoming Report
 
-- The **presentation slides and materials** from the workshop are available in the [dedicated Google Drive folder](https://drive.google.com/drive/folders/13CzGlRTo5mT6zVY9vkGGkXObyJmZwHhy){:target="_blank"}.
-- The **full workshop report** summarizing discussions and roadmap decisions is currently in preparation and will be published on HAL soon.
+The **full workshop report** summarizing discussions and roadmap decisions is currently in preparation and will be published on HAL soon.
