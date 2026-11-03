@@ -23,8 +23,8 @@ A key highlight was the **public online session** (September 23), gathering 77 a
 During the workshop, discussions and sessions covered:
 
 - **AI and MCP services**: Integrating Model Context Protocol (MCP) and AI-assisted workflows into the OntoPortal ecosystem.
-- **Ontolex-Lemon terminologies**: An extended enhancement of the OntoPortal technology to support rich lexical and linguistic resources.
-- **Ecosystem integrations**: Connecting OntoPortal with downstream tools and consuming services, including the ITINERIS Terminology Service (developed by UPM in the TeresIA project), KG-BioPortal, PontusX/AgrospAI, and OpenTheso.
+- **Ontolex-Lemon terminologies**: An extended enhancement of the OntoPortal technology to support rich lexical and linguistic resources (developed by UPM in the TeresIA project).
+- **Ecosystem integrations**: Connecting OntoPortal with downstream tools and consuming services, including the [ITINERIS Terminology Service](https://terminologyservice.itineris.cnr.it/){:target="_blank"}, [KG-BioPortal](https://ncbo.github.io/kg-bioportal/graphs/){:target="_blank"}, [Pontus-X](https://github.com/pontus-x){:target="_blank"}/[AgrospAI](https://portal.agrospai.udl.cat/){:target="_blank"}, and [OpenTheso](https://opentheso.huma-num.fr/){:target="_blank"}.
 - **Governance & metadata**: Advancing OntoPortal Federation guidelines, metadata curation, and formal organizational structures.
 - **Engineering & shared code**: Improving deployment recipes, shared documentation, and collaborative development workflows.
 
